@@ -1,3 +1,5 @@
+package aulas;
+
 public class EstudoOperadores {
     public static void main(String[] args) {
         // operadores matematicos

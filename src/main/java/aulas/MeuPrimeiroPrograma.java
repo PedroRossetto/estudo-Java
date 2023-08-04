@@ -1,4 +1,4 @@
-/*
+package aulas;/*
 Um programa JAVA, deve ter o nome bem definito. Seguindo o PascalCase:
 BatataAssada
 CalculadoraIMC

@@ -1,3 +1,4 @@
+package aulas;
 
 enum NivelAcesso {
     COMUM, USUARIO, ADMINISTRADOR
